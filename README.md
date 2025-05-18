@@ -48,7 +48,7 @@
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{OrlandoMartinho}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://github.com/ORT205/{ORT205}count.svg" /></p> 
 <br></div>
   
 
