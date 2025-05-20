@@ -14,7 +14,7 @@
 
 ## 🧠 About ORT SOLUTIONS
 
-**ORT – Soluções Tecnológicas specializes in systems development, graphic design and technical support.**
+**ORT – Technological Solutions specializes in systems development, graphic design and technical support.**
 Our team is ready to transform your idea into practical, modern and effective digital solutions.
 
 ## 🐍 Contributions:
